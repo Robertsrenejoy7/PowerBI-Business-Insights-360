@@ -1,7 +1,5 @@
 # PowerBI--Business-Insights-360
 
-# Business-Insights-360-Analysis
-
 ## Overview
 The **Business Insights 360** project offers a robust data analytics solution through Power BI, aimed at addressing the inefficiencies experienced by AtliQ Hardware, a rapidly growing consumer electronics company. The dashboard includes key views:
 - **Homepage**: Provides an overview of key metrics and insights.
@@ -32,7 +30,7 @@ The data model for this project is designed using a **snowflake schema**. This s
 - **Dimension Tables**: Tables that describe the attributes related to the fact tables, organized in a hierarchical structure.
 
 ## Live Dashboard
-You can view the live dashboard at the following link: [Live Dashboard](https://lnkd.in/gPRMvFne)
+You can view the live dashboard at the following link: [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjM1NTZkYTQtMzJlYS00YmIyLWI3ZmMtOTU0NTI2MWY0OTgzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 ## Technical and Soft Skills
 ### Technical Skills
 - Power BI
